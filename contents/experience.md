@@ -1,8 +1,8 @@
 ### **Machine Learning Engineer**  
 
-Worked on the development and MLLM. 
+Working on developing Foudation MLLM. 
 
 #### Key Contributions:  
-- Developed MLLM, mostly foucuse on model architecture, sft and DPO
+- Developed MLLM, mostly foucused on model architecture, sft and DPO.
 
 ---
