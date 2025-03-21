@@ -1,20 +1,9 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![ruozhang](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I work at ByteDance as a Machine Learning Engineer.
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+I am now working on Multimodal Large Language Model(MLLM) and intrested in Unified Multimodal Understanding and Generation Reaserach. If you are also interested in this filed, seeking any form of academic cooperation, or even just want discuss related ideas, please feel free to email me at zhangruo.roy@bytedance.com. We are also hiring interns in MLLM, Text to Image/Video/Speech!
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+I graduated from University College London with a mater's degree, advised by Prof YuanChang Liu. 
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
-#### Research Interests  
-XX, XX, XX, XX.
+My research interest includes Multimodal Large Language Model(MLLM), Unified Multimodal Understanding and Generation. 
