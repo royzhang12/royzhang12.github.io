@@ -1,4 +1,4 @@
-[![ruozhang](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![ruozhang](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/royzhang12)
 
 I work at ByteDance as a Machine Learning Engineer.
 
