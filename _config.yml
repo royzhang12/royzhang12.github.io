@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : ""
+title                    : "Ruo Zhang's homepage"
 title_separator          : "-"
 name                     : &name "Ruo Zhang"
 description              : &description "Machine Learning Engineer@ByteDance"
